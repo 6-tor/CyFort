@@ -1,4 +1,4 @@
-# Nome Cyfort
+![image](https://github.com/user-attachments/assets/c92ee3b0-f0d9-478e-97d7-48610b90fa7b)# Nome Cyfort
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
@@ -6,7 +6,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="imagem.png" alt="Exemplo imagem">
+<img src="CyFort.png" alt="Exemplo imagem">
 
 > Sistema abrangente de monitoramento de workstation.
 
@@ -28,25 +28,25 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 - Você instalou a versão mais recente do  `<Java>`
 - Você tem uma máquina `<Windows / Linux / Mac>`. 
 
-## 🚀 Instalando <Cyfort>
+## 🚀 Instalando...
 
-Para instalar o <nome_do_projeto>, siga estas etapas:
+Para instalar o Cyfort, siga estas etapas:
 
 Linux e macOS:
 
 ```
-<comando_de_instalação>
+git clone https://github.com/6-tor/CyFort.git
 ```
 
 Windows:
 
 ```
-<comando_de_instalação>
+git clone https://github.com/6-tor/CyFort.git
 ```
 
-## ☕ Usando <Cyfort>
+## ☕ Usando...
 
-Para usar <nome_do_projeto>, siga estas etapas:
+Para usar o Cyfort, siga estas etapas:
 
 ```
 <exemplo_de_uso>
@@ -54,9 +54,9 @@ Para usar <nome_do_projeto>, siga estas etapas:
 
 Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Forneça uma referência de opções para pontos de bônus!
 
-## 📫 Contribuindo para <Cyfort>
+## 📫 Contribuindo para Cyfort
 
-Para contribuir com <Cyfort>, siga estas etapas:
+Para contribuir, siga estas etapas:
 
 1. Bifurque este repositório.
 2. Crie um branch: `git checkout -b <nome_branch>`.
@@ -74,7 +74,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#" title="defina o título do link">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto do Amós Aureliano no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/46070110?v=4" width="100px;" alt="Foto do Amós Aureliano no GitHub"/><br>
         <sub>
           <b>Amós Aureliano</b>
         </sub>
