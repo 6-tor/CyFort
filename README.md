@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c92ee3b0-f0d9-478e-97d7-48610b90fa7b)# Nome Cyfort
+#Cyfort
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
